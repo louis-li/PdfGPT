@@ -1,5 +1,5 @@
 <h1 align="center">
-  PdfGPT witn Azure OpenAI  💡
+  ChatGPT with your data powered by Azure OpenAI  💡
 </h1>
 
 <p align="center">
@@ -24,6 +24,7 @@ Note: Make sure you have docker installed
 3. Edit .env file and add your Azure OpenAI key and end point
 3. Run `docker-compose build && docker-compose up`
 4. Navigate to http://localhost:5010/
+5. Use Upload button to upload PDF files and name it with your desired Index Name (stored in Redis)
 
 To stop just run Ctrl + C
 
