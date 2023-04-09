@@ -3,6 +3,8 @@ version: "3.9"
 services:
   application:
     build: ./application
+    environment:
+      - DOCKER_REDIS_URL=redis://redis:6379
     ports:
       - "5010:5010"
     volumes:
@@ -14,5 +16,3 @@ services:
     image: redislabs/redismod
     ports:
       - 6379:6379
-    volumes:
-      - ./redis:/data

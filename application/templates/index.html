@@ -178,8 +178,8 @@
             console.log("docsIndex is not set")
             docsIndex()
         }
-        else if (localStorage.getItem("docsIndexDate") < Date.now() - 900000) {
-            console.log("docsIndex is older than 15 minutes")
+        else if (localStorage.getItem("docsIndexDate") < Date.now() - 60000) {
+            console.log("docsIndex is older than 1 minutes")
             docsIndex()
         }
 

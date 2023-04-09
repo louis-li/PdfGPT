@@ -7,7 +7,7 @@ import redis
 import dotenv
 import requests
 # from celery import Celery
-from celery.result import AsyncResult
+# from celery.result import AsyncResult
 from flask import Flask, request, render_template, send_from_directory, jsonify
 from langchain.vectorstores.redis import Redis
 # from langchain import VectorDBQA
@@ -26,7 +26,7 @@ from langchain.prompts.chat import (
 )
 # from pymongo import MongoClient
 from werkzeug.utils import secure_filename
-from AzureOpenAIUtil.Embedding import DocumentEmbedding
+# from AzureOpenAIUtil.Embedding import DocumentEmbedding
 from AzureOpenAIUtil.AzureFormRecognizer import AzureFormRecognizerRead
 import openai
 
@@ -57,7 +57,7 @@ if platform.system() == "Windows":
     temp = pathlib.PosixPath
     pathlib.PosixPath = pathlib.WindowsPath
 
-
+redis_url = os.getenv("REDIS_URL") if os.getenv("DOCKER_REDIS_URL") is None else os.getenv("DOCKER_REDIS_URL")
 # load the prompts
 with open("prompts/combine_prompt.txt", "r") as f:
     template = f.read()
@@ -205,10 +205,10 @@ def api_answer():
             p_chat_reduce = ChatPromptTemplate.from_messages(messages_reduce)
 
             question_generator = LLMChain(llm=llm, prompt=CONDENSE_QUESTION_PROMPT)
-            rds = Redis.from_existing_index(embeddings, redis_url=os.getenv("REDIS_URL"), index_name=index_name)
+            rds = Redis.from_existing_index(embeddings, redis_url=redis_url, index_name=index_name)
             doc_chain = load_qa_chain(llm, chain_type="map_reduce", combine_prompt=p_chat_combine)
             chain = ConversationalRetrievalChain(
-                retriever=rds.as_retriever(search_type="similarity_limit"),
+                retriever=rds.as_retriever(search_type="similarity"),
                 question_generator=question_generator,
                 combine_docs_chain=doc_chain,
             )
@@ -257,7 +257,7 @@ def check_docs():
     data = request.get_json()
     index_name = data["docs"].split('/')[-1]
     try:
-        rds = Redis.from_existing_index(embeddings, redis_url=os.getenv("REDIS_URL"), index_name=index_name)
+        rds = Redis.from_existing_index(embeddings, redis_url=redis_url, index_name=index_name)
         return {"status": 'exists'}
     except:
         # remove this index from the index list
@@ -343,12 +343,12 @@ def upload_file():
 
         # check if redis index already exists
         try:
-            rds = Redis.from_existing_index(embeddings, redis_url=os.getenv("REDIS_URL"), index_name=job_name)
+            rds = Redis.from_existing_index(embeddings, redis_url=redis_url, index_name=job_name)
             starting_idx = 0
         except:
             rds = Redis.from_documents([processed_docs[0]], 
                                     embeddings, 
-                                    redis_url=os.getenv("REDIS_URL"),  
+                                    redis_url=redis_url,  
                                     index_name=job_name)
             print('Redis Index created:', rds.index_name)
             starting_idx = 1
