@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  application:
+    build: ./application
+    ports:
+      - "5010:5010"
+    volumes:
+      - ./application/inputs:/app/inputs
+    depends_on:
+        - redis
+
+  redis:
+    image: redislabs/redismod
+    ports:
+      - 6379:6379
+    volumes:
+      - ./redis:/data
