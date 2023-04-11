@@ -17,3 +17,11 @@ if (apiKeyForm) {
     modal.classList.toggle("hidden");
   });
 }
+
+function closeApiKey() {
+  const modal = document.getElementById("modal");
+  modal.classList.toggle("hidden");
+}
+
+modal.classList.toggle("hidden");
+

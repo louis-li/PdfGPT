@@ -6,11 +6,8 @@ import asyncio
 import redis
 import dotenv
 import requests
-# from celery import Celery
-# from celery.result import AsyncResult
 from flask import Flask, request, render_template, send_from_directory, jsonify
 from langchain.vectorstores.redis import Redis
-# from langchain import VectorDBQA
 from langchain.llms import AzureOpenAI
 
 from langchain.chains import LLMChain, ConversationalRetrievalChain
@@ -24,16 +21,12 @@ from langchain.prompts.chat import (
     SystemMessagePromptTemplate,
     HumanMessagePromptTemplate,
 )
-# from pymongo import MongoClient
 from werkzeug.utils import secure_filename
-# from AzureOpenAIUtil.Embedding import DocumentEmbedding
 from AzureOpenAIUtil.AzureFormRecognizer import AzureFormRecognizerRead
 import openai
 
 from error import bad_request
-# from worker import ingest_worker
-# import celeryconfig
-
+\
 # loading the .env file
 dotenv.load_dotenv()
 
@@ -83,16 +76,6 @@ else:
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER = "inputs"
 app.config['EXTRACTED_FOLDER'] = EXTRACT_FOLDER = "extracted"
-# app.config['CELERY_BROKER_URL'] = os.getenv("CELERY_BROKER_URL")
-# app.config['CELERY_RESULT_BACKEND'] = os.getenv("CELERY_RESULT_BACKEND")
-# app.config['MONGO_URI'] = os.getenv("MONGO_URI")
-# celery = Celery()
-# celery = Celery(app.name, broker=app.config['CELERY_BROKER_URL'], backend=app.config['CELERY_RESULT_BACKEND'])
-# celery.conf.update(app.config)
-# celery.config_from_object(celeryconfig)
-# mongo = MongoClient(app.config['MONGO_URI'])
-# db = mongo["docsgpt"]
-# vectors_collection = db["vectors"]
 openai.api_type = "azure"
 openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.api_base = os.getenv("OPENAI_API_BASE")
@@ -112,11 +95,6 @@ def run_async_chain(chain, question, chat_history):
         loop.close()
     result["answer"] = answer
     return result
-
-# @celery.task(bind=True)
-# def ingest(self, directory, formats, name_job, filename, user):
-#     resp = ingest_worker(self, directory, formats, name_job, filename, user)
-#     return resp
 
 # Add username and index name to local index file
 def add_index_to_list(user_name, index_name):
@@ -138,6 +116,14 @@ def get_index_list(user_name):
     with open("index_list.json", "r") as f:
         index_list = json.load(f)
     if user_name in index_list:
+        for index_name in index_list[user_name]:
+            try:
+                redis = Redis.from_existing_index(embeddings, redis_url=redis_url, index_name=index_name)
+            except:
+                index_list[user_name].remove(index_name)
+        index_list[user_name] = list(set(index_list[user_name]))
+        with open("index_list.json", "w") as f:
+            json.dump(index_list, f)
         return index_list[user_name]
     else:
         return []
@@ -215,18 +201,6 @@ def api_answer():
             chat_history = []
             result = chain({"question": question, "chat_history": chat_history})
  
-            # results = rds.similarity_search(question)
-            # result = results[0].page_content
-
-        # elif llm_choice == "openai":
-            # llm = AzureOpenAI(openai_api_key=api_key, 
-            #                   temperature=0,
-            #                   deployment_name=os.getenv("DEPLOYMENT_NAME"))
-            # qa_chain = load_qa_chain(llm=llm, chain_type="map_reduce",
-            #                          combine_prompt=c_prompt, question_prompt=q_prompt)
-            # chain = VectorDBQA(combine_documents_chain=qa_chain, vectorstore=docsearch, k=3)
-            # result = chain({"query": question})
-
 
         print(result)
 
@@ -239,11 +213,6 @@ def api_answer():
         except:
             pass
 
-        # mock result
-        # result = {
-        #     "answer": "The answer is 42",
-        #     "sources": ["https://en.wikipedia.org/wiki/42_(number)", "https://en.wikipedia.org/wiki/42_(number)"]
-        # }
         return result
     except Exception as e:
         # print whole traceback

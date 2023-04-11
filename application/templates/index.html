@@ -109,6 +109,7 @@
 
       </div>
       <div class="bg-gray-200 px-4 py-3 text-right">
+        <button class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2" onclick="closeApiKey">Cancel</button>
         <button type="submit" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2">Save</button>
 
       </div>
@@ -139,6 +140,7 @@
                 docsIndex = localStorage.getItem('docsIndex')
                 // create option on select with id select-docs
                 var select = document.getElementById("select-docs");
+                select.options.length = 0;
                 // convert docsIndex to json
                 docsIndex = JSON.parse(docsIndex)
                 // create option for each key in docsIndex

@@ -7,8 +7,6 @@ services:
       - DOCKER_REDIS_URL=redis://redis:6379
     ports:
       - "5010:5010"
-    volumes:
-      - ./application/inputs:/app/inputs
     depends_on:
         - redis
 
