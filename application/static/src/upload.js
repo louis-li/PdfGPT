@@ -18,12 +18,6 @@ function UploadDocument() {
 function cancelUpload() {
   const modal = document.getElementById("modal");
 
-  if (form) {
-    form.addEventListener("submit", function(event) {
-      event.preventDefault();
-    });
-  }
-
   modal.classList.toggle("hidden");
 
 }
