@@ -13,15 +13,13 @@
   </head>
 
 
-  <body>
+  <body onload="generateOptions()">
     
     <header class="bg-white p-2 flex justify-between items-center">
       <h1 class="text-lg font-medium">PdfGPT with Azure OpenAI💡</h1>
         <div>
       <a href="https://github.com/louis-li/pdfgpt" class="text-blue-500 hover:text-blue-800 text-sm">About</a>
-            {% if not api_key_set %}
-      <button class="text-sm text-yellow-500 hover:text-yellow-800" onclick="resetApiKey()">Reset Key</button>
-        {% endif %}
+      <button class="text-sm text-yellow-500 hover:text-yellow-800" onclick="UploadDocument()">Upload Document</button>
             </div>
     </header>
 
@@ -67,19 +65,7 @@
             <select id="select-docs" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
               <option selected value="default">Choose documentation</option>
             </select>
-            <br>
-            <br>
-            <label  class="block mb-2 text-sm font-medium text-gray-900">Upload Document</label>
-            <form action="/api/upload" method="post" enctype="multipart/form-data" class="mt-2">
-                <input type="file" name="file" class="py-4" id="file-upload">
-                <input type="text" name="user" value="local" hidden>
-                <input type="text" name="name" placeholder="Name:">
 
-
-              <button type="submit" class="py-2 px-4 text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
-                Upload
-              </button>
-            </form>
         </div>
     </div>
 
@@ -91,7 +77,6 @@
 
 
 
-{% if not api_key_set %}
 
 <div class="fixed z-10 overflow-y-auto top-0 w-full left-0 show" id="modal">
   <div class="flex items-center justify-center min-height-100vh pt-4 px-4 pb-20 text-center sm:block sm:p-0">
@@ -100,97 +85,67 @@
     </div>
     <span class="hidden sm:inline-block sm:align-middle sm:h-screen">&#8203;</span>
     <div class=" text-sm inline-block align-center bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg sm:w-full" role="dialog" aria-modal="true" aria-labelledby="modal-headline">
-       <form id="api-key-form">
+      <form id="update-form" action="/api/upload" method="post" enctype="multipart/form-data" class="mt-2">
         <div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-        <h2>Before you can start using DocsGPT we need you to provide an API key for llm. Currently, we support only OpenAI but soon many more. You can find it <a class="text-blue-500 hover:text-blue-800" href="https://platform.openai.com/account/api-keys">here</a></h2><br>
-        <label>OpenAI API key:</label>
+          
+          <label  class="block mb-2 text-sm font-medium text-gray-900">Upload Document</label>
+              <input type="file" name="file" class="py-4" id="file-upload">
+              <input type="text" name="user" value="local" hidden>
+              <input type="text" name="name" placeholder="Name:">
+        </div>
+        <div class="bg-gray-200 px-4 py-3 text-right">
+          <button class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2" onclick="cancelUpload">Cancel</button>
+          <button type="submit" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2">Upload</button>
 
-        <input id="api-key-input" type="password" class="w-full bg-gray-100 p-2 mt-2 mb-3" placeholder="Paste you Api Key here">
-
-      </div>
-      <div class="bg-gray-200 px-4 py-3 text-right">
-        <button class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2" onclick="closeApiKey">Cancel</button>
-        <button type="submit" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2">Save</button>
-
-      </div>
-            </form>
+        </div>
+      </form>
     </div>
   </div>
 </div>
-{% endif %}
-
-
 
       <script>
-          function docsIndex() {
-                // loads latest index 
-                // and stores it in localStorage
-                fetch('/api/combine')
-                    .then(response => response.json())
-                    .then(data => {
-                        localStorage.setItem("docsIndex", JSON.stringify(data));
-                        localStorage.setItem("docsIndexDate", Date.now());
-                        generateOptions()
-                    }
+        function getIndexList()
+        {
 
-                )
-
-            }
-          function generateOptions(){
-                docsIndex = localStorage.getItem('docsIndex')
-                // create option on select with id select-docs
-                var select = document.getElementById("select-docs");
-                select.options.length = 0;
-                // convert docsIndex to json
-                docsIndex = JSON.parse(docsIndex)
-                // create option for each key in docsIndex
-                for (var key in docsIndex) {
-                    var option = document.createElement("option");
-                    if (docsIndex[key].location == 'docshub'){
-                        if (docsIndex[key].name == docsIndex[key].language) {
-                            option.text = docsIndex[key].name + " " + docsIndex[key].version;
-                            option.value = docsIndex[key].name + "/" + ".project" + "/" + docsIndex[key].version + "/{{ embeddings_choice }}/";
-                            if (docsIndex[key].model == "{{ embeddings_choice }}") {
-                                select.add(option);
-                            }
-                        }
-                        else {
-                            option.text = docsIndex[key].name + " " + docsIndex[key].version;
-                            option.value = docsIndex[key].language + "/" + docsIndex[key].name + "/" + docsIndex[key].version + "/{{ embeddings_choice }}/";
-                            if (docsIndex[key].model == "{{ embeddings_choice }}") {
-                                select.add(option);
-                            }
-                        }
-                    }
-                    else {
-                        option.text = docsIndex[key].name;
-                        option.value = docsIndex[key].location + "/" + docsIndex[key].name;
-                        select.add(option);
-                    }
-                }
-
-          }
-        {% if not api_key_set %}
-        if (localStorage.getItem('apiKey') === null) {
-            console.log("apiKey is not set")
-            document.getElementById('modal').classList.toggle('hidden')
         }
-        {% endif %}
+
+
+        function generateOptions(){
+          var url = "/api/combine";
+
+          // Call the endpoint using XMLHttpRequest
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", url);
+          xhr.onload = function() {
+            localStorage.setItem('docsIndex',xhr.responseText);
+          }
+          xhr.send();
+          docsIndex = localStorage.getItem('docsIndex')
+          // create option on select with id select-docs
+          var select = document.getElementById("select-docs");
+          select.options.length = 0;
+          // convert docsIndex to json
+          docsIndex = JSON.parse(docsIndex)
+          // create option for each key in docsIndex
+          for (var key in docsIndex) {
+              var option = document.createElement("option");
+              option.text = docsIndex[key].name;
+              option.value = docsIndex[key].location + "/" + docsIndex[key].name;
+              select.add(option);
+          }
+
+        }
         if (localStorage.getItem('docsIndex') === null) {
             console.log("docsIndex is not set")
-            docsIndex()
+            generateOptions()
         }
         else if (localStorage.getItem("docsIndexDate") < Date.now() - 60000) {
             console.log("docsIndex is older than 1 minutes")
-            docsIndex()
+            generateOptions()
         }
 
-        generateOptions()
-
   </script>
-    {% if not api_key_set %}
-    <script src="{{url_for('static',filename='src/authapi.js')}}"></script>
-    {% endif %}
+  <script src="{{url_for('static',filename='src/upload.js')}}"></script>
   <script src="{{url_for('static',filename='src/chat.js')}}"></script>
   <script src="{{url_for('static',filename='src/choiceChange.js')}}"></script>
 

@@ -170,3 +170,9 @@ application/vectors/
 **/yarn.lock
 
 node_modules/
+application/extracted/local/2110/2110.08387.json
+.gitignore
+application/extracted/local/2201/2201.11903.json
+application/extracted/local/2211/2211.01910.json
+application/extracted/local/2203/2203.11171.json
+.gitignore
