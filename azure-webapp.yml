@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  application:
+    image: 86d4aa3d09114990945089eef0be8878.azurecr.io/vbdgpt-application
+    environment:
+      - DOCKER_REDIS_URL=redis://redis:6379
+    ports:
+      - "5010:5010"
+    depends_on:
+        - redis
+
+  redis:
+    image: redislabs/redismod
+    ports:
+      - 6379:6379

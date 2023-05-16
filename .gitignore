@@ -176,3 +176,1017 @@ application/extracted/local/2201/2201.11903.json
 application/extracted/local/2211/2211.01910.json
 application/extracted/local/2203/2203.11171.json
 .gitignore
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/20221003_CSU_DataAI_VBD_SKU_Field_Execution.pdf
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/DataAI_VBD_SKU_January2023.xlsx
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/DataAI_VBD_SKU_October2022.xlsx
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery-DAI.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/MIP-Readiness-Learning-Paths.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Enable-Unified-Data-Governance.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Innovate-with-AI-and-Cloud-Scale-Databases-in-Every-App.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Migrate-and-Modernize-your-Data-Estate.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Power-Business-Decisions-with-Cloud-Scale-Analytics.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Enable-Unified-Data-Governance/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Enable-Unified-Data-Governance/Catalog,-Classify-and-Map-Lineage-of-Data-Sets-with-Microsoft-Purview.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Innovate-with-AI-and-Cloud-Scale-Databases-in-Every-App/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Innovate-with-AI-and-Cloud-Scale-Databases-in-Every-App/Modernize-Existing-Apps-with-Managed-Databases-and-Managed-Services-for-Apps.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Migrate-and-Modernize-your-Data-Estate/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Migrate-and-Modernize-your-Data-Estate/Homogenous-Migration-of-PostgreSQL-and-MySQL-to-Azure.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Migrate-and-Modernize-your-Data-Estate/Migrate-SQL-IaaS-to-Azure-SQL-Managed-Instance-or-Azure-SQL-Database.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Migrate-and-Modernize-your-Data-Estate/Real-Time-Analytics-with-Synapse-Link-plus-PBI-for-Landed-Data-Platform-Workloads.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Power-Business-Decisions-with-Cloud-Scale-Analytics/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Power-Business-Decisions-with-Cloud-Scale-Analytics/Migration-from-Hadoop-to-Azure-Databricks.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Power-Business-Decisions-with-Cloud-Scale-Analytics/Migration-from-on%2Dprem-DW-to-Azure-Synapse.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Readiness-Learning-Paths/Value-Based-Delivery-Learning-Paths/Power-Business-Decisions-with-Cloud-Scale-Analytics/Net-New-Win-New-Analytic-Use-Cases-with-Synapse-and-PBI-and-AML.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/.order
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/Priority-IP-(VBD-&-MIP)-SKU.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/Top-Resources.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/VBD-101-%2D-How-to-execute.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/VBD-FAQ.md
+application/data/CSU-Data-and-AI%3A--VBD-and-Readiness/Value-Based-Delivery--%2D-Data-and-AI/VBD-SKU-Information.md
+application/data/csu-data_ai-main/CODE_OF_CONDUCT.md
+application/data/csu-data_ai-main/NAMING.md
+application/data/csu-data_ai-main/publishtoenghub.md
+application/data/csu-data_ai-main/README.md
+application/data/csu-data_ai-main/SECURITY.md
+application/data/csu-data_ai-main/SUPPORT.md
+application/data/csu-data_ai-main/Docs/DocFX.json
+application/data/csu-data_ai-main/Docs/DocFX.json.old
+application/data/csu-data_ai-main/Docs/how-to-contribute.md
+application/data/csu-data_ai-main/Docs/index.md
+application/data/csu-data_ai-main/Docs/toc.yml
+application/data/csu-data_ai-main/Docs/_site/favicon.ico
+application/data/csu-data_ai-main/Docs/_site/how-to-contribute.html
+application/data/csu-data_ai-main/Docs/_site/index.html
+application/data/csu-data_ai-main/Docs/_site/logo.svg
+application/data/csu-data_ai-main/Docs/_site/manifest.json
+application/data/csu-data_ai-main/Docs/_site/search-stopwords.json
+application/data/csu-data_ai-main/Docs/_site/toc.html
+application/data/csu-data_ai-main/Docs/_site/xrefmap.yml
+application/data/csu-data_ai-main/Docs/_site/DE/deliveryexp.html
+application/data/csu-data_ai-main/Docs/_site/DE/index.html
+application/data/csu-data_ai-main/Docs/_site/DE/toc.html
+application/data/csu-data_ai-main/Docs/_site/DE/tooling.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/de-dai-dna-0-overview.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/de-dai-dna-1-deliveryplanning.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/de-dai-dna-2-deliveryexecution.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/de-dai-dna-3-closeout.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/de-dai-dna-4-assetlist.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/toc.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/de_deploynewanalytics/media/Stages.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/de-dai-mdw-assetlist.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/de-dai-mdw-onboard.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/de-dai-mdw-overview.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/de-dai-mdw-planandscopeenvision.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/de-dai-mdw-realizevalue.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/toc.html
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/de_migrdataworkloads/media/Stages.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/commit.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/CreateTaskTab.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/CreateTeamChannel.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/envision.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/onboard.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/realizeValue.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/validate.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/AddBuckets-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/AddPlanner-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/Commit.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CompletedPlan-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CreateTaskTab-DE.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CreateTaskTab.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CreateTeamChannel-DE.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/CreateTeamChannel.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/Envision.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/Onboard.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/ScheduleEvents-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/Stages.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/TrackStatus-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/Archive/Validate.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/delivery - Designated Engineering.html
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM Phases.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM_EmpowerAchieve.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM_InspireDesign.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM_ListenConsult.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM_realizevalue.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEM_WhiteBackground.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/MCEMPhases_Small.png
+application/data/csu-data_ai-main/Docs/_site/DE/media/MCEM/ModernWork_Icon.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/delivery-de.html
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/tooling-de.html
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/AddBuckets-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/AddPlanner-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/Commit.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CompletedPlan-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CreateTaskTab-DE.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CreateTaskTab.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CreateTeamChannel-DE.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/CreateTeamChannel.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/DesignatedEngineeringTiers.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/Envision.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/Onboard.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/ScheduleEvents-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/Stages.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/TrackStatus-DE.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/Validate.JPG
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/DE_commit.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/DE_envision.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/DE_oboard.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/DE_realizeValue.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/DE_validate.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/delivery - Designated Engineering.html
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM Phases.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM_EmpowerAchieve.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM_InspireDesign.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM_ListenConsult.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM_realizevalue.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEM_WhiteBackground.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/MCEMPhases_Small.png
+application/data/csu-data_ai-main/Docs/_site/DE/MIPDocs/media/de/MCEM/ModernWork_Icon.png
+application/data/csu-data_ai-main/Docs/_site/fonts/glyphicons-halflings-regular.eot
+application/data/csu-data_ai-main/Docs/_site/fonts/glyphicons-halflings-regular.svg
+application/data/csu-data_ai-main/Docs/_site/fonts/glyphicons-halflings-regular.ttf
+application/data/csu-data_ai-main/Docs/_site/fonts/glyphicons-halflings-regular.woff
+application/data/csu-data_ai-main/Docs/_site/fonts/glyphicons-halflings-regular.woff2
+application/data/csu-data_ai-main/Docs/_site/MIP/index.html
+application/data/csu-data_ai-main/Docs/_site/styles/docfx.css
+application/data/csu-data_ai-main/Docs/_site/styles/docfx.js
+application/data/csu-data_ai-main/Docs/_site/styles/docfx.vendor.css
+application/data/csu-data_ai-main/Docs/_site/styles/docfx.vendor.js
+application/data/csu-data_ai-main/Docs/_site/styles/lunr.js
+application/data/csu-data_ai-main/Docs/_site/styles/lunr.min.js
+application/data/csu-data_ai-main/Docs/_site/styles/main.css
+application/data/csu-data_ai-main/Docs/_site/styles/main.js
+application/data/csu-data_ai-main/Docs/_site/styles/search-worker.js
+application/data/csu-data_ai-main/Docs/_site/VBD/how-to-contribute.html
+application/data/csu-data_ai-main/Docs/_site/VBD/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/azurearcdata.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureArc/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLDB/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLMI/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLVM/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/Arc-Diagram.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/diagrams.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Empower-Achieve.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Inspire_Design.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Manage-Optimize.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-RealizeValue.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/Migration-decision-tree.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/SolutionOptimization-ScopingCall-AzureSQL.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_sql_vms/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_sql_vms/AzureSQLDB/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_sql_vms/AzureSQLMI/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/migrate_sql_vms/media/SolutionOptimization-ScopingCall-AzureSQL.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/mysql.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/oracletopostgresql.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/oss_db_migration_landing_msx.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/postgresql_orig.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/postgresql.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/migration_factory.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions1.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions2.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions3.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions4.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-Workload Expansion-Workflow.png
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_cosmosdblink.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_dataverselink.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_SQLlink.html
+application/data/csu-data_ai-main/Docs/_site/VBD/01_migrate_modernize_data/synapse_link_pbi/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/dw_migration_msx_landing.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_Netezza.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_newformat.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_Teradata.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/media/AdvisoryServices.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/media/azure-landing-zones-relationship-cloud-scale.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/media/AzureML_CML_Architecture 2022-04-19 13_57_33.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/dw_migration/media/DW Synapse Migration Strategy.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/hadoop_databricks_migration.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/media/AzureDatabricksOfferDevelopment.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/media/DatabricksKeyBenefits.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/media/DatabricksMigration.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/td_lakehouse_migration.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/Azure_Databricks+Synapse_Reference_Architecture.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/AzureDatabricksOfferDevelopment.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/DatabricksKeyBenefits.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/DatabricksMigration.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/td_lakhouse_decision_matrix.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/Td_lk_POC_Migration_Objects.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/EmptyRepoInCR.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/PBI_Optimization_Delivery_Methodology.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/readme - ADX.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/readme - AML.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/readme - PowerBI.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/readme - Synapse.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/_contributors.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/High Tech-ISV.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/IoTAnalytics.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/LogAnalytics.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/docs/Multi-tenant.html
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/ADXBenchmark1.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/ADXBenchmark2.png
+application/data/csu-data_ai-main/Docs/_site/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/Process_Flow.png
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/modernize_apps_data/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/new_apps_data/readme - AI.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/new_apps_data/readme - CosmosDB.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/new_apps_data/readme - PostgreSQL.html
+application/data/csu-data_ai-main/Docs/_site/VBD/03_apps_data_ai/new_apps_data/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/04_governance/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/04_governance/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/04_governance/azurepurviewscenario/readme.html
+application/data/csu-data_ai-main/Docs/_site/VBD/05_WAF/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/05_WAF/WAFAMLGuidance/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/05_WAF/WAFAnalyticsGuidance/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/05_WAF/WAFCosmosDBGuidance/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/05_WAF/WAFSQLGuidance/README.html
+application/data/csu-data_ai-main/Docs/_site/VBD/06_misc/oracle_announcement.html
+application/data/csu-data_ai-main/Docs/_site/VBD/06_misc/assets/oci_architecture1.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/06_misc/assets/oci_architecture2.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/06_misc/assets/oci_architecture3.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/ads-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/ars-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/customer-upskilling-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/customized-workshop-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/establishmaintainWAF-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/oversight-prod-deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/poc-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/solution-optimization-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/technical-blocker-mitigation-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/WAF-go-live-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/workload-expansion-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Architectural Review Session for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Architecture Design Session for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Azure landing zone Deployment for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Customized Workshop for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Establish Well-Architected for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Go-Live Assessment for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Production Deployment Oversight for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Proof of Concept for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Solution Optimization for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Technical Blocker Mitigation for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Upskilling Plan and Execution for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Workload Expansion for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/ads-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/ars-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/customer-upskilling-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/customized-workshop-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/establishmaintainWAF-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/oversight-prod-deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/poc-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/solution-optimization-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/technical-blocker-mitigation-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/WAF-go-live-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/workload-expansion-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Architectural Review Session for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Architecture Design Session for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Azure landing zone Deployment for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Customized Workshop for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Establish Well-Architected for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Go-Live Assessment for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Production Deployment Oversight for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Proof of Concept for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Solution Optimization for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Technical Blocker Mitigation for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Upskilling Plan and Execution for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Workload Expansion for Migration to Azure SQL from VMs-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Architectural Review Session for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Architecture Design Session for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Azure landing zone Deployment for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Customized Workshop for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Establish Well-Architected for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Go-Live Assessment for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Production Deployment Oversight for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Proof of Concept for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Solution Optimization for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Technical Blocker Mitigation for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Upskilling Plan and Execution for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Workload Expansion for Synapse Link and PBI Analytics-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Architectural Review Session for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Architecture Design Session for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Azure landing zone Deployment for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Customized Workshop for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Establish Well-Architected for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Go-Live Assessment for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Production Deployment Oversight for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Proof of Concept for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Solution Optimization for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Technical Blocker Mitigation for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Upskilling Plan and Execution for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Workload Expansion for Migration to Azure Open Source Databases-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/ads-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/ars-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/customer-upskilling-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/customized-workshop-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/establishmaintainWAF-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/oversight-prod-deployment-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/poc-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/solution-optimization-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/technical-blocker-mitigation-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/WAF-go-live-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/workload-expansion-lp.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Architectural Review Session for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Architecture Design Session for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Azure landing zone Deployment for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Customized Workshop for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Establish Well-Architected for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Go-Live Assessment for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Production Deployment Oversight for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Proof of Concept for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Solution Optimization for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Technical Blocker Mitigation for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Upskilling Plan and Execution for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Workload Expansion for Migration to Azure Synapse-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Architectural Review Session for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Architecture Design Session for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Azure landing zone Deployment for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Customized Workshop for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Establish Well-Architected for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Go-Live Assessment for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Production Deployment Oversight for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Proof of Concept for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Solution Optimization for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Technical Blocker Mitigation for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Upskilling Plan and Execution for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Workload Expansion for Azure Analytics and Azure Machine Learning-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Architectural Review Session for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Architecture Design Session for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Azure landing zone Deployment for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Customized Workshop for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Establish Well-Architected for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Go-Live Assessment for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Production Deployment Oversight for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Proof of Concept for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Solution Optimization for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Technical Blocker Mitigation for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Upskilling Plan and Execution for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Workload Expansion for Migration to Databricks-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Architectural Review Session for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Architecture Design Session for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Azure landing zone Deployment for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Customized Workshop for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Establish Well-Architected for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Go-Live Assessment for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Production Deployment Oversight for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Proof of Concept for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Solution Optimization for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Technical Blocker Mitigation for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Upskilling Plan and Execution for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Workload Expansion for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Architectural Review Session for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Architecture Design Session for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Azure landing zone Deployment for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Customized Workshop for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Establish Well-Architected for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Go-Live Assessment for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Production Deployment Oversight for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Proof of Concept for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Solution Optimization for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Technical Blocker Mitigation for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Upskilling Plan and Execution for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Workload Expansion for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Architectural Review Session for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Architecture Design Session for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Azure landing zone Deployment for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Customized Workshop for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Establish Well-Architected for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Go-Live Assessment for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Production Deployment Oversight for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Proof of Concept for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Solution Optimization for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Technical Blocker Mitigation for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Upskilling Plan and Execution for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Workload Expansion for Data Governance-Datasheet.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/architecture-design-session.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/architecture-review.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/complete-accreditation.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/customer-upskilling-plan.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/customized-workshop.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/envisioning-workshop.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/go-live-assessment.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/How-to-get-acredited.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/landing-zone-accelerator.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/oversight-production-deployment-of-solution.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/proof-of-concept.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/provide-feedback.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/solution-optimization.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/technical-blocker-mitigation.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/value-based-delivery-overview.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/well-architected.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/workload-expansion.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/media/accreditationframework.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/media/completeacreditation.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/media/mipaccreditationframework.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/common-content/media/vbdskudesign.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/media/FY23SolutionPlayDAI.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/media/FY23SolutionPlays.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/Migrate-and-Modernize-your-Data-Estate/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/VBD/Power-Business-Decisions-with-Cloud-Scale-Analytics/intro.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-assessment_outcomes.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-closeout.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-engagment.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-nextstep_mip.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-overview.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-reporting.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-resources.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-scoping.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/Images/AssessmentPath_MachineLearning.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_aiml/media/AssessmentPath_MachineLearning.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-assessment_outcomes.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-closeout.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-engagement.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-nextstep_mip.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-overview.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-reporting.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-resources.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-scoping.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/Images/AssessmentPath_Analytics.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_analytics/media/AssessmentPath_Analytics.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/toc.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-assessment_outcomes.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-closeout.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-engagment.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-nextstep_mip.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-overview.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-reporting.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-resources.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-scoping.html
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/Images/AssessmentPath_DataPlatform.png
+application/data/csu-data_ai-main/Docs/_site/VBD/90_MIPDocs/WAF/wafa_dp/media/AssessmentPath_DataPlatform.png
+application/data/csu-data_ai-main/Docs/_site/VBD/assets/execution_guidance_template.html
+application/data/csu-data_ai-main/Docs/_site/VBD/media/AAAPFY23.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/AdvisoryServices.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/AnalyticsFY23.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/azure-landing-zones-relationship-cloud-scale.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/AzureML_CML_Architecture 2022-04-19 13_57_33.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Concurent_Query_Results.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Engagement_Stages.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/FullAnalytics ExecutionPlan.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/FY23PlaysOnTruck.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/FY23SolutionPlays.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Interpret_POC_Results.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/MCEM-Empower-Achieve.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/MCEM-Inspire_Design.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/MCEM-Liste_Consult.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/MCEM-Manage-Optimize.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/MCEM-RealizeValue.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Microsoft_Purview.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Note_Delivery_Content.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/PrePostSalesAccelerators.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Prereq_for_WAF.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Process_Flow.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/QRFreeKusto.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Synapse_Cover_Page.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Synapse_Link_CosmosDB.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Synapse_Link_Dataverse.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/Synapse_Link_SQL.png
+application/data/csu-data_ai-main/Docs/_site/VBD/media/VBD 3.0 Release Notes.jpg
+application/data/csu-data_ai-main/Docs/_site/VBD/media/WAF_5_Tenants.png
+application/data/csu-data_ai-main/Docs/DE/deliveryexp.md
+application/data/csu-data_ai-main/Docs/DE/index.md
+application/data/csu-data_ai-main/Docs/DE/toc.yml
+application/data/csu-data_ai-main/Docs/DE/tooling.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/de-dai-dna-0-overview.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/de-dai-dna-1-deliveryplanning.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/de-dai-dna-2-deliveryexecution.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/de-dai-dna-3-closeout.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/de-dai-dna-4-assetlist.md
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/toc.yml
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/DE/de_deploynewanalytics/media/Stages.jpg
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/de-dai-mdw-assetlist.md
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/de-dai-mdw-onboard.md
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/de-dai-mdw-overview.md
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/de-dai-mdw-planandscopeenvision.md
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/de-dai-mdw-realizevalue.md
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/toc.yml
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/DE/de_migrdataworkloads/media/Stages.jpg
+application/data/csu-data_ai-main/Docs/DE/media/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/DE/media/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/DE/media/commit.png
+application/data/csu-data_ai-main/Docs/DE/media/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/DE/media/CreateTaskTab.jpg
+application/data/csu-data_ai-main/Docs/DE/media/CreateTeamChannel.jpg
+application/data/csu-data_ai-main/Docs/DE/media/envision.png
+application/data/csu-data_ai-main/Docs/DE/media/onboard.png
+application/data/csu-data_ai-main/Docs/DE/media/realizeValue.png
+application/data/csu-data_ai-main/Docs/DE/media/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/DE/media/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/DE/media/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/DE/media/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/DE/media/validate.png
+application/data/csu-data_ai-main/Docs/DE/media/Archive/AddBuckets-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/AddPlanner-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/Commit.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CompletedPlan-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CreateTaskTab-DE.jpg
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CreateTaskTab.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CreateTeamChannel-DE.jpg
+application/data/csu-data_ai-main/Docs/DE/media/Archive/CreateTeamChannel.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/Envision.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/Onboard.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/ScheduleEvents-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/DE/media/Archive/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/DE/media/Archive/Stages.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/TrackStatus-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/DE/media/Archive/Validate.JPG
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM Phases.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM_EmpowerAchieve.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM_InspireDesign.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM_ListenConsult.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM_realizevalue.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEM_WhiteBackground.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/MCEMPhases_Small.png
+application/data/csu-data_ai-main/Docs/DE/media/MCEM/ModernWork_Icon.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/delivery-de.md
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/tooling-de.md
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/AddBuckets-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/AddBuckets.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/AddPlanner-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/AddPlanner.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/Commit.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CompletedPlan-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CompletedPlan.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CreateTaskTab-DE.jpg
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CreateTaskTab.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CreateTeamChannel-DE.jpg
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/CreateTeamChannel.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/DesignatedEngineeringTiers.jpg
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/Envision.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/Onboard.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/RealizeValue.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/ScheduleEvents-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/ScheduleEvents.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/ServicesHubFileShareOption.jpg
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/ServicesHubMenu.jpg
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/Stages.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/TrackStatus-DE.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/TrackStatus.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/Validate.JPG
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/DE_commit.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/DE_envision.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/DE_oboard.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/DE_realizeValue.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/DE_validate.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM Phases.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM_EmpowerAchieve.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM_InspireDesign.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM_ListenConsult.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM_realizevalue.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEM_WhiteBackground.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/MCEMPhases_Small.png
+application/data/csu-data_ai-main/Docs/DE/MIPDocs/media/de/MCEM/ModernWork_Icon.png
+application/data/csu-data_ai-main/Docs/MIP/index.md
+application/data/csu-data_ai-main/Docs/templates/ReadMe.txt
+application/data/csu-data_ai-main/Docs/templates/material/site/partials/affix.tmpl.partial
+application/data/csu-data_ai-main/Docs/templates/material/site/partials/affix.tmpl.partial.old
+application/data/csu-data_ai-main/Docs/VBD/how-to-contribute.md
+application/data/csu-data_ai-main/Docs/VBD/README.md
+application/data/csu-data_ai-main/Docs/VBD/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/azurearcdata.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureArc/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLDB/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLMI/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/AzureSQLVM/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/Arc-Diagram.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/diagrams.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Empower-Achieve.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Inspire_Design.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-Manage-Optimize.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/MCEM-RealizeValue.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/Migration-decision-tree.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_onprem_sql/media/SolutionOptimization-ScopingCall-AzureSQL.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_sql_vms/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_sql_vms/AzureSQLDB/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_sql_vms/AzureSQLMI/readme.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/migrate_sql_vms/media/SolutionOptimization-ScopingCall-AzureSQL.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/mysql.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/oracletopostgresql.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/oss_db_migration_landing_msx.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/postgresql_orig.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/postgresql.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/cloudinit.sh
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/deploy.sh
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/main.tf
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/Oracle-to-PostgreSQL_AzureMigrationDeployment.pdf
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/README.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/oss_db_migration/artifacts/casestudy/updateSchema.sql
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/migration_factory.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions1.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions2.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions3.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS-ComparingAzureSQLOptions4.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign-ADS.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-ArchitectureDesign.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/sql_migration_factory/media/SMFP-Workload Expansion-Workflow.png
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_cosmosdblink.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_dataverselink.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/synapse_link_pbi/readme_SQLlink.md
+application/data/csu-data_ai-main/Docs/VBD/01_migrate_modernize_data/synapse_link_pbi/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/readme.pdf
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/dw_migration_msx_landing.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_Netezza.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_newformat.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_PBI_Land_Expand.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/readme_DW_Teradata.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/media/AdvisoryServices.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/media/azure-landing-zones-relationship-cloud-scale.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/media/AzureML_CML_Architecture 2022-04-19 13_57_33.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/dw_migration/media/DW Synapse Migration Strategy.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/hadoop_databricks_migration.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/media/AzureDatabricksOfferDevelopment.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/media/DatabricksKeyBenefits.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/media/DatabricksMigration.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/td_lakehouse_migration.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/Azure_Databricks+Synapse_Reference_Architecture.jpg
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/AzureDatabricksOfferDevelopment.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/DatabricksKeyBenefits.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/DatabricksMigration.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/td_lakhouse_decision_matrix.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/hadoop_migration/teradata_lakehouse_migration/media/Td_lk_POC_Migration_Objects.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/EmptyRepoInCR.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/PBI_Optimization_Delivery_Methodology.jpg
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme - ADX.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme - AML.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme - PowerBI.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme - Synapse.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/readme.pdf
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/_contributors.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/High Tech-ISV.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/IoTAnalytics.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/LogAnalytics.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/readme.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/docs/Multi-tenant.docx
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/docs/Multi-tenant.md
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/ADXBenchmark1.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/ADXBenchmark2.png
+application/data/csu-data_ai-main/Docs/VBD/02_cloud_scale_analytics/new_analytics/ADX_SynapseDX/media/Process_Flow.png
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/readme.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/modernize_apps_data/readme.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/new_apps_data/readme - AI.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/new_apps_data/readme - CosmosDB.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/new_apps_data/readme - OpenAI.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/new_apps_data/readme - PostgreSQL.md
+application/data/csu-data_ai-main/Docs/VBD/03_apps_data_ai/new_apps_data/readme.md
+application/data/csu-data_ai-main/Docs/VBD/04_governance/readme.md
+application/data/csu-data_ai-main/Docs/VBD/04_governance/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/04_governance/azurepurviewscenario/readme.md
+application/data/csu-data_ai-main/Docs/VBD/05_WAF/README.md
+application/data/csu-data_ai-main/Docs/VBD/05_WAF/WAFAMLGuidance/README.md
+application/data/csu-data_ai-main/Docs/VBD/05_WAF/WAFAnalyticsGuidance/README.md
+application/data/csu-data_ai-main/Docs/VBD/05_WAF/WAFCosmosDBGuidance/README.md
+application/data/csu-data_ai-main/Docs/VBD/05_WAF/WAFSQLGuidance/README.md
+application/data/csu-data_ai-main/Docs/VBD/06_misc/oracle_announcement.md
+application/data/csu-data_ai-main/Docs/VBD/06_misc/assets/oci_architecture1.jpg
+application/data/csu-data_ai-main/Docs/VBD/06_misc/assets/oci_architecture2.jpg
+application/data/csu-data_ai-main/Docs/VBD/06_misc/assets/oci_architecture3.jpg
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/ads-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/ars-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/customer-upskilling-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/customized-workshop-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/establishmaintainWAF-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/oversight-prod-deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/poc-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/solution-optimization-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/technical-blocker-mitigation-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/WAF-go-live-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/workload-expansion-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Architectural Review Session for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Architecture Design Session for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Azure landing zone Deployment for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Customized Workshop for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Establish Well-Architected for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Go-Live Assessment for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Production Deployment Oversight for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Proof of Concept for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Solution Optimization for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Technical Blocker Mitigation for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Upskilling Plan and Execution for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/Workload Expansion for Migration to Azure SQL or Arc-Enabled Data Services-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/1_migrate_SQL_arc/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/ads-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/ars-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/customer-upskilling-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/customized-workshop-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/establishmaintainWAF-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/oversight-prod-deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/poc-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/solution-optimization-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/technical-blocker-mitigation-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/WAF-go-live-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/workload-expansion-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Architectural Review Session for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Architecture Design Session for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Azure landing zone Deployment for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Customized Workshop for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Establish Well-Architected for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Go-Live Assessment for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Production Deployment Oversight for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Proof of Concept for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Solution Optimization for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Technical Blocker Mitigation for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Upskilling Plan and Execution for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/Workload Expansion for Migration to Azure SQL from VMs-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/2_Migrate_SQL/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Architectural Review Session for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Architecture Design Session for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Azure landing zone Deployment for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Customized Workshop for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Establish Well-Architected for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Go-Live Assessment for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Production Deployment Oversight for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Proof of Concept for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Solution Optimization for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Technical Blocker Mitigation for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Upskilling Plan and Execution for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/Workload Expansion for Synapse Link and PBI Analytics-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/4_synapse_link/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Architectural Review Session for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Architecture Design Session for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Azure landing zone Deployment for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Customized Workshop for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Establish Well-Architected for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Go-Live Assessment for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Production Deployment Oversight for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Proof of Concept for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Solution Optimization for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Technical Blocker Mitigation for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Upskilling Plan and Execution for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/Workload Expansion for Migration to Azure Open Source Databases-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/01_migrate_modernize_data/9_PostgreSQL_MySQL/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/ads-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/ars-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/customer-upskilling-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/customized-workshop-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/establishmaintainWAF-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/oversight-prod-deployment-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/poc-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/solution-optimization-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/technical-blocker-mitigation-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/WAF-go-live-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/workload-expansion-lp.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Architectural Review Session for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Architecture Design Session for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Azure landing zone Deployment for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Customized Workshop for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Establish Well-Architected for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Go-Live Assessment for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Production Deployment Oversight for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Proof of Concept for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Solution Optimization for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Technical Blocker Mitigation for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Upskilling Plan and Execution for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/Workload Expansion for Migration to Azure Synapse-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/3_migration_synapse/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Architectural Review Session for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Architecture Design Session for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Azure landing zone Deployment for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Customized Workshop for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Establish Well-Architected for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Go-Live Assessment for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Production Deployment Oversight for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Proof of Concept for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Solution Optimization for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Technical Blocker Mitigation for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Upskilling Plan and Execution for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/Workload Expansion for Azure Analytics and Azure Machine Learning-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/5_win_new_analytic/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Architectural Review Session for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Architecture Design Session for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Azure landing zone Deployment for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Customized Workshop for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Establish Well-Architected for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Go-Live Assessment for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Production Deployment Oversight for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Proof of Concept for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Solution Optimization for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Technical Blocker Mitigation for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Upskilling Plan and Execution for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/Workload Expansion for Migration to Databricks-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/02_cloud_scale_analytics/6_Hadoop_Databricks/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Architectural Review Session for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Architecture Design Session for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Azure landing zone Deployment for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Customized Workshop for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Establish Well-Architected for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Go-Live Assessment for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Production Deployment Oversight for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Proof of Concept for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Solution Optimization for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Technical Blocker Mitigation for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Upskilling Plan and Execution for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/Workload Expansion for Modernizing Apps with Azure Managed Services for Databases and Apps-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/7_modernize_apps/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Architectural Review Session for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Architecture Design Session for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Azure landing zone Deployment for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Customized Workshop for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Establish Well-Architected for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Go-Live Assessment for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Production Deployment Oversight for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Proof of Concept for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Solution Optimization for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Technical Blocker Mitigation for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Upskilling Plan and Execution for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/Workload Expansion for Building Apps with Azure AI, PostgreSQL, and Cosmos DB-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/03_apps_data_ai/8_build_intel_apps/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Architectural Review Session for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Architecture Design Session for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Azure landing zone Deployment for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Customized Workshop for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Establish Well-Architected for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Go-Live Assessment for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Production Deployment Oversight for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Proof of Concept for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Solution Optimization for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Technical Blocker Mitigation for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Upskilling Plan and Execution for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/Workload Expansion for Data Governance-Datasheet.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/04_governance/10_azure_purview/datasheet/_images/DatasheetBannerImage.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/architecture-design-session.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/architecture-review.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/complete-accreditation.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/customer-upskilling-plan.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/customized-workshop.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/envisioning-workshop.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/go-live-assessment.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/How-to-get-acredited.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/landing-zone-accelerator.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/oversight-production-deployment-of-solution.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/proof-of-concept.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/provide-feedback.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/solution-optimization.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/technical-blocker-mitigation.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/value-based-delivery-overview.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/well-architected.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/workload-expansion.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/media/accreditationframework.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/media/completeacreditation.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/media/mipaccreditationframework.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/common-content/media/vbdskudesign.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/media/FY23SolutionPlayDAI.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/media/FY23SolutionPlays.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/Migrate-and-Modernize-your-Data-Estate/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/VBD/Power-Business-Decisions-with-Cloud-Scale-Analytics/intro.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-assessment_outcomes.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-closeout.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-engagment.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-nextstep_mip.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-overview.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-reporting.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-resources.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/wafa_aiml-scoping.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/Images/AssessmentPath_MachineLearning.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_aiml/media/AssessmentPath_MachineLearning.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-assessment_outcomes.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-closeout.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-engagement.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-nextstep_mip.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-overview.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-reporting.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-resources.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/wafa_a-scoping.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/Images/AssessmentPath_Analytics.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_analytics/media/AssessmentPath_Analytics.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/toc.yml
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-assessment_outcomes.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-closeout.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-engagment.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-nextstep_mip.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-overview.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-reporting.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-resources.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/wafa_dp-scoping.md
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/Images/AssessmentPath_DataPlatform.png
+application/data/csu-data_ai-main/Docs/VBD/90_MIPDocs/WAF/wafa_dp/media/AssessmentPath_DataPlatform.png
+application/data/csu-data_ai-main/Docs/VBD/assets/execution_guidance_template.md
+application/data/csu-data_ai-main/Docs/VBD/media/AAAPFY23.png
+application/data/csu-data_ai-main/Docs/VBD/media/AdvisoryServices.png
+application/data/csu-data_ai-main/Docs/VBD/media/AnalyticsFY23.png
+application/data/csu-data_ai-main/Docs/VBD/media/azure-landing-zones-relationship-cloud-scale.png
+application/data/csu-data_ai-main/Docs/VBD/media/AzureML_CML_Architecture 2022-04-19 13_57_33.png
+application/data/csu-data_ai-main/Docs/VBD/media/Concurent_Query_Results.png
+application/data/csu-data_ai-main/Docs/VBD/media/Engagement_Stages.png
+application/data/csu-data_ai-main/Docs/VBD/media/FullAnalytics ExecutionPlan.png
+application/data/csu-data_ai-main/Docs/VBD/media/FY23PlaysOnTruck.png
+application/data/csu-data_ai-main/Docs/VBD/media/FY23SolutionPlays.png
+application/data/csu-data_ai-main/Docs/VBD/media/Interpret_POC_Results.png
+application/data/csu-data_ai-main/Docs/VBD/media/MCEM-Empower-Achieve.png
+application/data/csu-data_ai-main/Docs/VBD/media/MCEM-Inspire_Design.png
+application/data/csu-data_ai-main/Docs/VBD/media/MCEM-Liste_Consult.png
+application/data/csu-data_ai-main/Docs/VBD/media/MCEM-Manage-Optimize.png
+application/data/csu-data_ai-main/Docs/VBD/media/MCEM-RealizeValue.png
+application/data/csu-data_ai-main/Docs/VBD/media/Microsoft_Purview.png
+application/data/csu-data_ai-main/Docs/VBD/media/Note_Delivery_Content.png
+application/data/csu-data_ai-main/Docs/VBD/media/PrePostSalesAccelerators.png
+application/data/csu-data_ai-main/Docs/VBD/media/Prereq_for_WAF.png
+application/data/csu-data_ai-main/Docs/VBD/media/Process_Flow.png
+application/data/csu-data_ai-main/Docs/VBD/media/QRFreeKusto.png
+application/data/csu-data_ai-main/Docs/VBD/media/Synapse_Cover_Page.png
+application/data/csu-data_ai-main/Docs/VBD/media/Synapse_Link_CosmosDB.png
+application/data/csu-data_ai-main/Docs/VBD/media/Synapse_Link_Dataverse.png
+application/data/csu-data_ai-main/Docs/VBD/media/Synapse_Link_SQL.png
+application/data/csu-data_ai-main/Docs/VBD/media/VBD 3.0 Release Notes.jpg
+application/data/csu-data_ai-main/Docs/VBD/media/WAF_5_Tenants.png
+application/data/csu-data_ai-main/Docs/VBD/templates/eslz-caf_deployment_template

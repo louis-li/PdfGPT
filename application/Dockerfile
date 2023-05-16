@@ -10,6 +10,7 @@ RUN pip install -r requirements.txt
 
 WORKDIR /app
 COPY . /app
+COPY data/ /app/data
 ENV FLASK_APP=app.py
 ENV FLASK_DEBUG=true
 

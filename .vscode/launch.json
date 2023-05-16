@@ -19,7 +19,7 @@
             "type": "python",
             "request": "launch",
             "program": "app.py",
-            "cwd": "c:/code/PdfGPT/application",
+            "cwd": "c:/code/VbdGPT/application",
             "console": "integratedTerminal",
             "justMyCode": false,
             

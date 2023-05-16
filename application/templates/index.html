@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>PdfGPT with Azure OpenAI💡 </title>
+    <title>CSU-GPT with Azure OpenAI💡 </title>
     <link href="{{url_for('static',filename='dist/css/output.css')}}" rel="stylesheet">
       <link rel="favicon" href="{{ url_for('static', filename='favicon/favicon.ico') }}">
       <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for('static', filename='favicon/apple-touch-icon.png') }}">
@@ -16,11 +16,7 @@
   <body onload="generateOptions()">
     
     <header class="bg-white p-2 flex justify-between items-center">
-      <h1 class="text-lg font-medium">PdfGPT with Azure OpenAI💡</h1>
-        <div>
-      <a href="https://github.com/louis-li/pdfgpt" class="text-blue-500 hover:text-blue-800 text-sm">About</a>
-      <button class="text-sm text-yellow-500 hover:text-yellow-800" onclick="UploadDocument()">Upload Document</button>
-            </div>
+      <h1 class="text-lg font-medium">CSU-GPT with Azure OpenAI💡</h1>
     </header>
 
   
@@ -40,7 +36,7 @@
 
             <div id="messages" class="w-full flex flex-col mt-2" >
               <div class="bg-indigo-500 text-white p-2 rounded-lg mb-2 self-start">
-                <p class="text-sm">Hello, select a document and ask me anything about this document. </p>
+                <p class="text-sm">Hello, I'm an agent to help with VBD and DE related questions'. </p>
               </div>
 
           </div>
@@ -50,6 +46,8 @@
         <form id="message-form" autocomplete="off" class="flex items-stretch">
           <input autocomplete="off" id="message-input" class="bg-white p-2 rounded-lg ml-2 text-sm w-full" type="text" placeholder="Type your message here...">
           <button id="button-submit" class="bg-blue-500 text-white p-2 rounded-lg ml-2 mr-2 text-sm sm:max-lg:p-5" type="submit">Send</button>
+          <input type="reset" value="Clear History" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-gray-700 mr-2" onclick="resetHistory()">
+          
         </form>
         </div>
 
@@ -61,10 +59,7 @@
         <div class="lg:w-1/4 p-2 sm:max-lg:hidden">
           <p class="text-sm">This is a sample chatbot that uses the Azure OpenAI to answer questions for provided document</p>
           <br>
-            <label  class="block mb-2 text-sm font-medium text-gray-900">Select document</label>
-            <select id="select-docs" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
-              <option selected value="default">Choose documentation</option>
-            </select>
+
 
         </div>
     </div>
@@ -73,80 +68,15 @@
     
  
 </div>
-
-
-
-
-
-<div class="fixed z-10 overflow-y-auto top-0 w-full left-0 show" id="modal">
-  <div class="flex items-center justify-center min-height-100vh pt-4 px-4 pb-20 text-center sm:block sm:p-0">
-    <div class="fixed inset-0 transition-opacity">
-      <div class="absolute inset-0 bg-gray-900 opacity-75" />
-    </div>
-    <span class="hidden sm:inline-block sm:align-middle sm:h-screen">&#8203;</span>
-    <div class=" text-sm inline-block align-center bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg sm:w-full" role="dialog" aria-modal="true" aria-labelledby="modal-headline">
-      <form id="update-form" action="/api/upload" method="post" enctype="multipart/form-data" class="mt-2">
-        <div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-          
-          <label  class="block mb-2 text-sm font-medium text-gray-900">Upload Document</label>
-              <input type="file" name="file" class="py-4" id="file-upload">
-              <input type="text" name="user" value="local" hidden>
-              <input type="text" name="name" placeholder="Name:">
-        </div>
-        <div class="bg-gray-200 px-4 py-3 text-right">
-          <button type="submit" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-blue-700 mr-2">Upload</button>
-          <input type="reset" value="Cancel" class="py-2 px-4 bg-blue-500 text-white rounded hover:bg-gray-700 mr-2" onclick="cancelUpload()">
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
-
-      <script>
-        function getIndexList()
-        {
-
-        }
-
-
-        function generateOptions(){
-          var url = "/api/combine";
-
-          // Call the endpoint using XMLHttpRequest
-          var xhr = new XMLHttpRequest();
-          xhr.open("GET", url);
-          xhr.onload = function() {
-            localStorage.setItem('docsIndex',xhr.responseText);
-          }
-          xhr.send();
-          docsIndex = localStorage.getItem('docsIndex')
-          // create option on select with id select-docs
-          var select = document.getElementById("select-docs");
-          select.options.length = 0;
-          // convert docsIndex to json
-          docsIndex = JSON.parse(docsIndex)
-          // create option for each key in docsIndex
-          for (var key in docsIndex) {
-              var option = document.createElement("option");
-              option.text = docsIndex[key].name;
-              option.value = docsIndex[key].location + "/" + docsIndex[key].name;
-              select.add(option);
-          }
-
-        }
-        if (localStorage.getItem('docsIndex') === null) {
-            console.log("docsIndex is not set")
-            generateOptions()
-        }
-        else if (localStorage.getItem("docsIndexDate") < Date.now() - 60000) {
-            console.log("docsIndex is older than 1 minutes")
-            generateOptions()
-        }
-
+  <script>
+    function resetHistory()
+    {
+      let chatHistory = ['']
+      localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
+      document.getElementById("messages").innerHTML = '' ;
+    }
   </script>
-  <script src="{{url_for('static',filename='src/upload.js')}}"></script>
   <script src="{{url_for('static',filename='src/chat.js')}}"></script>
-  <script src="{{url_for('static',filename='src/choiceChange.js')}}"></script>
 
   </body>
 </html>

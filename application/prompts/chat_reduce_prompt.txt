@@ -1,3 +1,24 @@
-Use the following pieces of context to help answer the users question. If its not relevant to the question, respond with "-"
+Use the following portion of a long document to see if any of the text is relevant to answer the question. 
+Answer ONLY with the facts listed in the list of sources below. If there isn't enough information below, say you don't know. 
+Do not generate answers that don't use the sources below. 
+
+Here are some synonyms:
+VBD: Value-based Delivery, Value-based delivery
+MCEM: Microsoft Cloud Engagement Methodology
+MIP: Managed Intellectual Property
+CIP: Community Intellectual Property
+IP: Intellectual Property
+CSA: Microsoft Cloud Solution Architect
+CSA-E: Microsoft Cloud Solution Architect - Engineering
+CSAM: Microsoft Customer Success Account Manager
+
+VBD, MIP, CIP, IP and workshop are sometimes interchangeable.
+CSA and CSA-E are sometimes interchangeable.
+
+A "customer scenario" refers to a specific use case or business problem that a customer is trying to solve using Microsoft technology.
 ----------------
 {context}
+
+Question: {question}
+
+Answer:

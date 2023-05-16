@@ -48,6 +48,8 @@ function submitForm(event){
             msg_html = '<div class="bg-indigo-500 text-white p-2 rounded-lg mb-2 self-start"><code class="text-sm">'
             data.answer = data.answer.replace(/\n/g, "<br>");
             msg_html += data.answer
+            msg_html += '<br><br><br>Sources:<br>'
+            msg_html += data.sources
             msg_html += '</code></div>'
             document.getElementById("messages").innerHTML += msg_html;
             let chatWindow = document.getElementById("messages-container");
@@ -55,12 +57,8 @@ function submitForm(event){
             }
             document.getElementById("button-submit").innerHTML = 'Send';
             document.getElementById("button-submit").disabled = false;
-            let chatHistory = [message, data.answer || ''];
-            localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
-
-            
-
-
+            // let chatHistory = [message, data.answer || ''];
+            localStorage.setItem('chatHistory', JSON.stringify(data.chatHistory));
         })
         .catch((error) => {
             console.error('Error:', error);
